@@ -1,0 +1,22 @@
+.lishki {
+	display: flex;
+	justify-content: space-around;
+	width: 500px;
+	height: 40px;
+	border: 2px solid black;
+	margin-left: 20px;
+	margin-top: 10px;
+	background-color: aquamarine;
+}
+.lishki p {
+	margin-top: 10px;
+    margin: 5px;
+}
+.done{
+    display: flex;
+}
+.task {
+    display: flex;
+	text-decoration: line-through;
+}
+

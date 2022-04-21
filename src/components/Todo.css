@@ -1,0 +1,17 @@
+.container {
+	text-align: center;
+}
+.title {
+	width: 350px;
+	height: 30px;
+    background-color: aqua;
+    border: none;
+}
+.btn {
+	background-color: #9c9c9c; /* Green */
+	border: none;
+	color: white;
+	padding: 10px 20px;
+	text-align: center;
+    border-radius: 3px;
+}
